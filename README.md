@@ -1,5 +1,4 @@
-# final_year_project_repo
+# Next Day Stock Market Prediction Using Artifical Neural Network
 Repository for Final Year Project
 
-Current Status:
-First Check: Project is initially checked by mentor. The modifications suggested are in progress. 
+
